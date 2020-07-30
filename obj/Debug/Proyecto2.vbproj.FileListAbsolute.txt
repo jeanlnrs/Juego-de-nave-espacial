@@ -1,0 +1,76 @@
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\EcologiaEspacial\bin\Debug\Proyecto2.exe.config
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\obj\Debug\Proyecto2.vbprojResolveAssemblyReference.cache
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\obj\Debug\Proyecto2.Proyecto2.resources
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\obj\Debug\Proyecto2.Resources.resources
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\obj\Debug\Proyecto2.vbproj.GenerateResource.Cache
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\bin\Debug\Proyecto2.xml
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\r.guillen\Documents\UTP\Desarrollo 7\Proyecto2\EcologiaEspacial\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\bin\Debug\Proyecto2.xml
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\obj\Debug\Proyecto2.vbprojResolveAssemblyReference.cache
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Proyecto2.resources
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Resources.resources
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\obj\Debug\Proyecto2.vbproj.GenerateResource.Cache
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\AA\Downloads\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\AA\Downloads\Nave espacial\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\AA\Downloads\Nave espacial\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\AA\Downloads\Nave espacial\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\AA\Downloads\Nave espacial\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\bin\Debug\Proyecto2.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\obj\Debug\Proyecto2.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\obj\Debug\Proyecto2.Proyecto2.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\obj\Debug\Proyecto2.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Nave espacial\Proyecto2\obj\Debug\Proyecto2.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\bin\Debug\Proyecto2.xml
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\obj\Debug\Proyecto2.vbprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\obj\Debug\Proyecto2.Proyecto2.resources
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\obj\Debug\Proyecto2.Resources.resources
+C:\Users\User\Downloads\Nave espacial\Nave espacial\Proyecto2\obj\Debug\Proyecto2.vbproj.GenerateResource.Cache
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\bin\Debug\Proyecto2.xml
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\obj\Debug\Proyecto2.vbprojResolveAssemblyReference.cache
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Proyecto2.resources
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\obj\Debug\Proyecto2.Resources.resources
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\obj\Debug\Proyecto2.vbproj.GenerateResource.Cache
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\obj\Debug\Proyecto2.vbproj.CoreCompileInputs.cache
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\bin\Debug\Proyecto2.xml
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\obj\Debug\Proyecto2.vbprojResolveAssemblyReference.cache
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\obj\Debug\Proyecto2.Proyecto2.resources
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\obj\Debug\Proyecto2.Resources.resources
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\obj\Debug\Proyecto2.vbproj.GenerateResource.Cache
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\obj\Debug\Proyecto2.vbproj.CoreCompileInputs.cache
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\jean linares\Desktop\Desarrollo 8\Proyecto2 - copia\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Admin\OneDrive\Documents\UTP\III AÑO\II SEMESTRE\DS8\Prigrama 2\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Admin\OneDrive\Documents\UTP\III AÑO\II SEMESTRE\DS8\Prigrama 2\Proyecto2\obj\Debug\Proyecto2.xml
+C:\Users\Admin\OneDrive\Documents\UTP\III AÑO\II SEMESTRE\DS8\Prigrama 2\Proyecto2\obj\Debug\Proyecto2.pdb
